@@ -1,15 +1,17 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ========================================================= -->
+<!--                         HEADER                            -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=48&pause=1000&color=FF5C8A&center=true&vCenter=true&width=700&height=80&lines=Hello!+I'm+Soumita!"
-    alt="Hello! I'm Soumita"
+    alt="Hello! I'm Soumita!"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=25&pause=1200&color=9B6CFF&center=true&vCenter=true&width=550&height=50&lines=Curious+Mind;Idea+Collector;Chai+Powered+%E2%98%95"
+    src="https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=25&pause=1200&color=9B6CFF&center=true&vCenter=true&width=650&height=50&lines=Curious+Mind+•+Idea+Collector+•+Chai+Powered+☕"
     alt="Curious Mind • Idea Collector • Chai Powered"
   />
 </p>
@@ -20,81 +22,117 @@
 
 <br>
 
-<!-- ======================= ABOUT ME ======================= -->
 
-<img
-  align="right"
-  width="260"
-  src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"
-  alt="Animated coding cat"
-/>
+<!-- ========================================================= -->
+<!--                       ABOUT ME                            -->
+<!-- ========================================================= -->
 
 ## 🌱 About Me
 
-🔭 Exploring tech & turning ideas into projects  
-🌱 Currently learning **AI/ML, Data Science, IoT & UI/UX**  
+<table>
+<tr>
+
+<td width="60%" valign="middle">
+
+🚀 Exploring tech & turning ideas into projects  
+
+🌱 Currently learning **AI/ML, Data Science, IoT & UI/UX**
+
 🤝 Open to interesting collaborations & new ideas  
+
 ⚡ Creating, experimenting, failing — repeat  
+
 ☕ Powered by curiosity & chai
 
-<br clear="right"/>
+</td>
 
----
+<td width="40%" align="center">
 
-<!-- ======================= SOCIALS ======================= -->
+<img
+  src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"
+  width="250"
+  alt="Animated coding cat"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  ✦ ✦ ✦
+</p>
+
+
+<!-- ========================================================= -->
+<!--                       LET'S CONNECT                       -->
+<!-- ========================================================= -->
 
 ## 🌐 Let's Connect
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/soumita-patra-602466309/">
   <img
     src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
-    width="70"
+    width="80"
     alt="LinkedIn"
   />
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/sue4002">
   <img
     src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"
-    width="70"
+    width="80"
     alt="GitHub"
   />
 </a>
 
 </p>
 
----
+<p align="center">
+  <i>Come say hi! 👋</i>
+</p>
 
-<!-- ======================= TECH STACK ======================= -->
+<br>
+
+
+<!-- ========================================================= -->
+<!--                       TECH STACK                          -->
+<!-- ========================================================= -->
 
 ## 💻 Tech Stack
 
 <p align="center">
 
-<!-- Python -->
 <img
   src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"
   width="85"
   alt="Python"
 />
 
-<!-- VS Code -->
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <img
   src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"
   width="85"
   alt="VS Code"
 />
 
-<!-- GitHub -->
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <img
   src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"
   width="85"
   alt="GitHub"
 />
 
-<!-- PyCharm -->
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <img
   src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4"
   width="85"
@@ -103,54 +141,81 @@
 
 </p>
 
----
+<p align="center">
+  <i>Python • VS Code • GitHub • PyCharm</i>
+</p>
 
-<!-- ======================= PROJECTS ======================= -->
+<br>
+
+
+<!-- ========================================================= -->
+<!--                         PROJECTS                          -->
+<!-- ========================================================= -->
 
 ## 🚀 Projects
 
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 💡 Building
+
+Turning ideas into things that actually work.
+
+</td>
+
+<td width="50%" align="center">
+
+### 🧪 Experimenting
+
+Trying things, breaking things, learning things.
+
+</td>
+
+</tr>
+</table>
+
 <p align="center">
-
-<img
-  src="https://user-images.githubusercontent.com/74038190/212284164-662b26f5-a2e4-49cb-b675-4af56e609afa.gif"
-  width="250"
-  alt="Animated coding"
-/>
-
+  <i>More projects coming soon... 👀</i>
 </p>
 
-<p align="center">
-  💡 Building, experimenting and learning — one project at a time.
-</p>
+<br>
 
----
 
-<!-- ======================= CURRENTLY FIGURING THINGS OUT ======================= -->
+<!-- ========================================================= -->
+<!--                  CURRENTLY FIGURING OUT                  -->
+<!-- ========================================================= -->
 
 ## ☕ Currently Figuring Things Out
 
 <p align="center">
 
-<img
-  src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"
-  width="300"
-  alt="Coffee while working"
-/>
+✨ Learning  
+→ 🛠️ Building  
+→ 💥 Breaking  
+→ 🧠 Understanding  
+→ 🔁 Repeat
 
 </p>
 
 <p align="center">
-  <i>Creating → experimenting → breaking things → learning → repeat.</i>
+  <i>Powered by curiosity, questionable ideas & chai.</i> ☕
 </p>
 
----
+<br>
 
-<!-- ======================= FOOTER BANNER ======================= -->
+
+<!-- ========================================================= -->
+<!--                         FOOTER                            -->
+<!-- ========================================================= -->
 
 <p align="center">
+
   <img
     src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7"
     width="100%"
-    alt="Animated GitHub banner"
+    alt="Animated footer banner"
   />
+
 </p>
