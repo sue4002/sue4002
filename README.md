@@ -90,7 +90,7 @@
   &nbsp;•&nbsp;
   🌐 <b>HTML/CSS</b>
   &nbsp;•&nbsp;
-  🔧 <b>Git</b>
+  
 </p>
 
 ---
